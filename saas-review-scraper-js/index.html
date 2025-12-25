@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SaaS Review Scraper</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h2>SaaS Review Scraper</h2>
+
+  <input id="company" placeholder="Company (example: info.com)">
+  <input id="start" type="date">
+  <input id="end" type="date">
+
+  <select id="source">
+    <option value="trustpilot">Trustpilot</option>
+  </select>
+
+  <button onclick="run()">Scrape Reviews</button>
+
+  <pre id="output"></pre>
+
+  <script src="script.js"></script>
+</body>
+</html>
 
