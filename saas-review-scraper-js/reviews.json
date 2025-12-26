@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Great collaboration tool",
+    "review": "Slack makes team communication smooth and fast.",
+    "date": "2024-01-10",
+    "rating": 5,
+    "reviewer": "Product Manager",
+    "source": "Trustpilot"
+  },
+  {
+    "title": "Notification delay",
+    "review": "Sometimes notifications are delayed.",
+    "date": "2024-01-20",
+    "rating": 3,
+    "reviewer": "Software Engineer",
+    "source": "Trustpilot"
+  }
+]
